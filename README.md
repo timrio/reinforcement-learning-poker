@@ -1,3 +1,3 @@
 # reinforcement-learning-poker
 
-Packages needed, cf. `requirements.txt`
+Packages needed: cf. `requirements.txt`
