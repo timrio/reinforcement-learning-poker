@@ -1,0 +1,7 @@
+pyglet
+pytest
+pandas
+pylint
+gym
+numpy
+matplotlib
