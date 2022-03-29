@@ -7,7 +7,7 @@ We propose a Q-learning approach to solve a poker-based game, i.e single-round a
 We want to kindly thank Ferdinand Schlatt for developing open-source poker environment package clubs_gym on which our implementation is based, and for quick answer to all issues we may have had with his package.
 
 ## Structure
-
+```
 │   .gitignore
 │   README.md
 │   requirements.txt
@@ -16,6 +16,8 @@ We want to kindly thank Ferdinand Schlatt for developing open-source poker envir
 │   ├───all_in_fold_several_hands.ipynb
 │   ├───all_in_fold.ipynb
 │   ├───base_nb.ipynb
+│   ├───all_in_fold_deep_q.ipynb
+```
 
 ## Implementations
-The single round approach is available in the all_in_fold.ipynb notebook and the multi-round approach is available in the all_in_fold_several_hands.ipynb notebook.
+The single round approach is available in the all_in_fold.ipynb notebook and the multi-round approach is available in the all_in_fold_several_hands.ipynb notebook, and the Deep_Q is in all_in_fold_deep_q.ipynb.
